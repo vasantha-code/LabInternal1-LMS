@@ -19,8 +19,9 @@
 
     <dependencies>
         <!-- Servlet API -->
-             <!--ADD SERVLET API  -->
-       <!-- https://mvnrepository.com/artifact/jakarta.servlet/servlet-parent -->
+           <!-- ADD SERVLET API -->
+    <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
+
 
         <!-- JSP API -->
         <dependency>
